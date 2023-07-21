@@ -4,6 +4,7 @@ Curso Creado por: Estefania Cassingena Navone (@EstefaniaCassN).
 Tema: Arreglos anidados en JavaScript.
 */
 
+// ESto le que se llama arreglos anidados
 var listaDeEstudiantes = [["Nora", 97], ["Gino", 78]];
 console.log(listaDeEstudiantes);
 

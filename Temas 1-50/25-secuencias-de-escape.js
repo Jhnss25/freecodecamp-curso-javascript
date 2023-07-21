@@ -20,7 +20,7 @@ Código | Resultado
 
 var miMeta;
 
-miMeta = "Aprender \'JavaScript\'";
+miMeta = "Aprender \'Java\tScript\'";
 console.log(miMeta);
 
 miMeta = "Aprender \"JavaScript\"";

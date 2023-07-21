@@ -8,7 +8,7 @@ var estaciones;
 
 estaciones = ["Invierno", "Otoño", "Primavera", "Verano"];
 
-estacion = estaciones.pop();
+let estacion = estaciones.pop(); // .pop() retorna el valor quitado
 
 console.log(estaciones);
 console.log(estacion);

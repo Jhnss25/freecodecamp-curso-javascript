@@ -5,7 +5,7 @@ Tema: Argumentos en JavaScript.
 */
 
 function sumar(a, b) {
-  suma = a + b;
+  let suma = a + b;
   console.log("El resultado de " + a + " + " + b + " es: " + suma);
 }
 

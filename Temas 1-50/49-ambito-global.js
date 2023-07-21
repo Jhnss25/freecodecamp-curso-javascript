@@ -13,3 +13,4 @@ function miFuncion() {
 }
 
 console.log(miVariableGlobal);
+cd //

@@ -4,6 +4,7 @@ Curso Creado por: Estefania Cassingena Navone (@EstefaniaCassN).
 Tema: Funciones en JavaScript.
 */
 
+// Las funciones sirven para escribir código reutilizable.
 function mostrarMensaje() {
   console.log("¡Hola, Mundo!");
 }

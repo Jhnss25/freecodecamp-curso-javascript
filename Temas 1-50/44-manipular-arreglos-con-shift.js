@@ -6,6 +6,7 @@ Tema: Manipular arreglos con .shift().
 
 var estaciones = ["Invierno", "Otoño", "Primavera"]; 
 
-estaciones.shift();  // Remover primer elemento del arreglo
+let estacion = estaciones.shift();  // Remover primer elemento del arreglo y retorna el elemento retornado
 
 console.log(estaciones);
+console.log(estacion);
